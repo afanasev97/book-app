@@ -20,4 +20,4 @@
 - Настроить Rollup для объединения и минификации JavaScript модулей.
 - Использовать плагины Rollup для обработки различных типов файлов, таких как CSS или изображения.
 
-### [Github Pages](https://afanasev97.github.io/book-app/https://afanasev97.github.io/book-app/)
+### [Github Pages](https://afanasev97.github.io/book-app/)
